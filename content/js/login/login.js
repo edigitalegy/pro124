@@ -7,8 +7,7 @@ const groupone = "./content.html";
 const grouptwo = "./content.html";
 const groupyhree = "./content.html";
 const groupfour = "./content.html";
-const masterpage = "./userdata.html";
-
+const masterpage = "./dashboard/userdata.html";
 /****************************************************************************************************************/
 document.getElementById("form-title").innerText = "تسجيل الدخول"; // Change title
 document.getElementById("back-btn").addEventListener("click", goBack);
